@@ -1,6 +1,6 @@
 # SAGE Parameter Optimization
 
-This directory contains parameter optimization tools and results for the SAGE semi-analytic galaxy formation model using Particle Swarm Optimization (PSO). Within the output folder are plots for both Millennium and miniUchuu for the most important predictions using SAGE with the 2 different simulations.
+This directory contains parameter optimization tools and results for the Semi-Analytic Galaxy Evolution (SAGE) model using Particle Swarm Optimization (PSO). Within the output folder are plots for both Millennium and miniUchuu for the most important predictions using SAGE with the 2 different simulations as well as additional plots.
 
 ## Overview
 
@@ -34,7 +34,7 @@ The optimization process calibrates several key SAGE parameters:
 
 The PSO calibrates against several key observational constraints:
 
-- Stellar Mass Function (SMF) at multiple redshifts
+- Stellar Mass Function (SMF) at multiple redshifts (z=0,1,2)
 - More to come ...
 
 ## Usage
