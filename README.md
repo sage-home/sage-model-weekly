@@ -45,7 +45,7 @@ The repository is organized to allow for easy execution of the PSO algorithm:
 python main.py -c <config_file> -b <sage_binary> -o <output_dir> -S <space_file> -x <constraints>
 ```
 
-Example scripts are provided in `run_pso.sh` and `run_pso_SMF.sh`.
+Example scripts are provided in `run_pso.sh`.
 
 ## Output
 
