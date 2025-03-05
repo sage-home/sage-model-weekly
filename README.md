@@ -1,6 +1,6 @@
 # SAGE Parameter Optimization
 
-This directory contains parameter optimization tools and results for the Semi-Analytic Galaxy Evolution model using Particle Swarm Optimization (PSO). Within the output folder are plots for both Millennium and miniUchuu for the most important predictions using SAGE with the 2 different simulations.
+This directory contains parameter optimization tools and results for the Semi-Analytic Galaxy Evolution (SAGE) model using Particle Swarm Optimization (PSO). Within the output folder are plots for both Millennium and miniUchuu for the most important predictions using SAGE with the 2 different simulations as well as additional plots.
 
 ## Overview
 
